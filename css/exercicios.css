@@ -1,37 +1,59 @@
+/* ARQUIVO PARA ESTILOS MOBILE FIRST */
+/* Estilos Base*/
 img {
     max-width: 100%;
 }
 
-.secao {
-    float: left;
-    width: 33.333%;
-}
-
-.mini{
-    float: left;
-    width: 50%;
-}
-
-.container{
+.container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
 }
 
-.logo, .secao {
-    padding: 0 1%;
+/* Estilos de Elementos do Header*/
 
+header {
+    padding: 0.5em 0;
 }
 
-
 .logo,
-.busca,
 .barra-nav,
-.menu-principal, {
+.menu-principal,
+.busca {
     display: inline-block;
     vertical-align: center;
 }
 
-.menu-principal li{
+.logo {
+    padding: 0 2%;
+}
+
+.barra-nav {
+    margin: 0.4em 0;
+    padding: 0 2%;
+}
+
+.menu-principal {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.menu-principal li {
     float: left;
+}
+
+/* Estilos Main */
+
+.secao {
+    width: 100%;
+    padding: 0 2%;
+}
+
+.mini {
+    float: left;
+    width: 50%;
+}
+
+.destaques {
+    margin-top: 1em;
 }

@@ -1,0 +1,12 @@
+/* ARQUIVO PARA ESTILOS MEDIUM SIZE */
+@media (min-width: 1000px) {
+    /* Estilos Base */
+    html {
+        font-size: 1.25em;
+    }
+
+    /* Estilos Main*/
+    .secao {
+        width: 33.333%;
+    }
+}
