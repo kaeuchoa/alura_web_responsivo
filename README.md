@@ -27,8 +27,6 @@ Dentro deste projeto foram abordados os seguintes tópicos:
 <hr>
 OBS.: O código deste repositório é baseado no desenvolvido durante o curso, logo é uma modificação do original pertencente à Alura © Caelum 2019
 
-------
-
 <hr>
 Code developed based on the classes of the online education platform "Alura":
 <ul>
