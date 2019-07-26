@@ -1,6 +1,5 @@
-# alura_web_responsivo
+<h1>Alura - Curso Front-end </h1>
 
-Alura - Curso Front-end
 <hr>
 Código desenvolvido com base nas aulas dos cursos da plataforma de ensino online "Alura": 
 <ul>
