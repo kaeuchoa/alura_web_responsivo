@@ -1,5 +1,4 @@
 # Alura - Curso Front-end 
-<hr>
 Código desenvolvido com base nas aulas dos cursos da plataforma de ensino online "Alura": 
 <ul>
   <li> <strong> Web Design Responsivo: Páginas que se adaptam do mobile ao desk </strong> - Concluído </li>
